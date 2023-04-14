@@ -17,6 +17,10 @@
 
 #### Terapkan konsep asosiasi OOP
 
+#### Terapkan konsep MVC
+
+#### Terapkan Factory design pattern
+
 ## Buatlah cli untuk
 
     menampilkan semua list command
