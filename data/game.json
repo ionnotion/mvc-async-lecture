@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "title": "Dark Souls",
+        "score": 9.1,
+        "genre" : "action rpg",
+        "finished": true
+    },
+    {
+        "id":2,
+        "title": "Elden Ring",
+        "score": 9.7,
+        "genre" : "action rpg",
+        "finished": true
+    },
+    {
+        "id":3,
+        "title": "Congklak",
+        "score": null,
+        "genre" : "boardgame",
+        "finished": false
+    },
+    {
+        "id":4,
+        "title": "Harvest Moon",
+        "score": 9.5,
+        "genre" : "simulation",
+        "finished": true
+    },
+    {
+        "id":5,
+        "title": "Persona 5",
+        "score": 9.4,
+        "genre" : "rpg",
+        "finished": true
+    },
+    {
+        "id":6,
+        "title": "Chess",
+        "score": null,
+        "genre" : "boardgame",
+        "finished": false
+    },
+    {
+        "id":7,
+        "title": "Hollow Knight",
+        "score": null,
+        "genre" : "metroidvania",
+        "finished": false
+    },
+    {
+        "id":8,
+        "title": "Spelunky",
+        "score": null,
+        "genre" : "roguelike",
+        "finished": false
+    },
+    {
+        "id":9,
+        "title": "Pokemon Scarlet/Violet",
+        "score": 7,
+        "genre" : "rpg simulation",
+        "finished": true
+    },
+    {
+        "id":10,
+        "title": "Jump King",
+        "score": null,
+        "genre" : "platformer",
+        "finished": false
+    }
+]
