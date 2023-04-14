@@ -1,5 +1,11 @@
 # mvc-async-lecture
 
+## Buat class Genre
+
+### property Genre
+
+    name
+
 ## Buat class Game
 
 ### property Game
@@ -8,12 +14,6 @@
     title
     score
     genre
-
-## Buat class Genre
-
-### property Genre
-
-    name
 
 #### Terapkan konsep asosiasi OOP
 
